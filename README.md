@@ -7,4 +7,4 @@
 - 💬 You can ask me technical questions and I'll do my best to answer them if I can..
 - 📫 You can contact me through my email：888@zxh.pub
 
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=zuwias)]
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=zuwias)
